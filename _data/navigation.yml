@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Snippets"
-    url: /publications/
+    url: /snippets/
 
   - title: "Blog"
-    url: /talks/    
+    url: /blog/    
 
   #- title: "Teaching"
   #  url: /teaching/    
