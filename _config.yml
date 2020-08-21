@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"# "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Tibor Z. B. de Camargo"
   avatar           : "profile.png"
-  bio              : "I like coffee and science      BSc in Molecular Sciences      MSc in Data Science at University of Potsdam"
+  bio              : "I like coffee and science"
   location         : "Potsdam, Germany"
   employer         :
-  pubmed           : I like coffee and science - BSc 
+  pubmed           : 
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
