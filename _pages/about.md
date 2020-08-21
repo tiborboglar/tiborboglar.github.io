@@ -13,4 +13,4 @@ This is the front page of a website that is powered by the [academicpages templa
 Hello, this website is under construction! 
 ======
 
-Yes, I'm sorreeey!:(
+Yes, I'm sorreeey! :(
