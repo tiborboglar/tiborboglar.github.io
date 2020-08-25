@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Yes, I'm sorreeey! :(
+<b>@To-do</b>
+Create a Nonogram game in C++!
 
-======
 
