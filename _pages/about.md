@@ -10,6 +10,5 @@ redirect_from:
 
 
 <b>@To-do</b>
-Create a Nonogram game in C++!
 
 
